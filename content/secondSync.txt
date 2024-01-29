@@ -1,0 +1,1 @@
+Here is inside of file that will be created plus add new words from nearby files : Hello this is first text file, Hello this is second text file
